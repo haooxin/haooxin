@@ -1,4 +1,4 @@
-![Baner image](https://github.com/haooxin/images/blob/main/haoo-github-banner.png)
+![Baner image](https://raw.githubusercontent.com/haooxin/images/main/haoo-github-banner.png)
 
 # 👋 Hi! ( ͡° ͜ʖ ͡°)
 
