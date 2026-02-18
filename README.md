@@ -5,14 +5,6 @@
 **I'm Daniel and I'm passionate about creating network services and network technologies. In short, I'm a Homelab nerd.**
 - 🌱 I’m currently learning to automate processes using Ansible, Terraform.
 
-## My Stats
-
-![Haooxin's Stats](https://github-readme-stats.vercel.app/api?username=haooxin&theme=dark&show_icons=true&hide_border=true&count_private=true) 
-
-![Haooxin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=haooxin&theme=dark&hide_border=true)
-
-![Haooxin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haooxin&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 <!--
 # 🧑‍💻 My open source repos
 
