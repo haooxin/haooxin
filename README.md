@@ -7,6 +7,7 @@
 
 ## 📊 Stats
 <!-- STATS:START -->
+![GitHub Stats](./stats.svg)
 <!-- STATS:END -->
 
 <!--
