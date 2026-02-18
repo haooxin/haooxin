@@ -5,7 +5,7 @@
 **I'm Daniel and I'm passionate about creating network services and network technologies. In short, I'm a Homelab nerd.**
 - 🌱 I’m currently learning to automate processes using Ansible, Terraform.
 
-📊 Stats
+## 📊 Stats
 <!-- STATS:START -->
 <!-- STATS:END -->
 
